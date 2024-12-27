@@ -1,0 +1,30 @@
+/*Opacity, visibility, display*/
+
+body
+{
+    background-color: rgb(101, 155, 202);
+    margin: auto;
+    width: 1000px;
+}
+
+img
+{
+    width: 200px;
+}
+
+/*
+img
+{
+    opacity: 0.3;
+}
+
+img:hover
+{
+    opacity: 1;
+}
+*/
+
+.fleft
+{
+    float: left;
+}
